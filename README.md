@@ -11,3 +11,7 @@ Le site est bouclé + ajout d'un petit jeux que même un amateur peut comprendre
 Gitdhelp est sur ça dernière ligne droite ne reste plus qu'à update le readme comme je le fait tout de suite 
 
 MISE EN PAGE FAIT 
+
+Issue detecter 
+Issue corriger 
+Gitdhelp terminez 
